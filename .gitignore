@@ -1,0 +1,8 @@
+.env
+k3s_kubeconfig.yaml
+.terraform.lock.hcl
+hcloud-microos-snapshots.pkr.hcl
+k3s_kustomization_backup.yaml
+terraform.tfstate
+terraform.tfstate.backup
+/.terraform
